@@ -19,6 +19,7 @@
 #### Github Stats
 <hr>
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/?username=notprash&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=onedark" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notprash&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /></p>
 
 
 #### Certificates
