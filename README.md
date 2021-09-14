@@ -11,7 +11,7 @@
 
 
 #### My Todo for this year
-- [ ] Complete [Computer Networking course](https://www.coursera.org/learn/computer-networking/home/welcome)
+- [X] Complete [Computer Networking course](https://www.coursera.org/learn/computer-networking/home/welcome)
 - [ ] Learn C
 - [ ] Complete [IT Security course](https://www.coursera.org/learn/it-security)
 - [ ] Try to make some good music 💿
