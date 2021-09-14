@@ -9,5 +9,12 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am person who is called computer nerd in my school. 
 
-[![Prash's GitHub stats](https://github-readme-stats.vercel.app/api?username=notprash)](https://github.com/anuraghazra/github-readme-stats)
 
+#### My Todo for this year
+- [ ] Learn C
+- [ ] Complete [IT Security course](https://www.coursera.org/learn/it-security)
+- [ ] Try to make some good music 💿
+
+
+<hr>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/?username=notprash&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=onedark" /></p>
