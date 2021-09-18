@@ -24,4 +24,5 @@
 
 #### Certificates
 <hr>
-<p align='center'><a href="https://coursera.org/share/bd1c81f79377d9bcf7d3da4d5922c1a0">Computer Networking <a/> </p>
+
+[Computer Networking](https://coursera.org/share/bd1c81f79377d9bcf7d3da4d5922c1a0)
