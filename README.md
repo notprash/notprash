@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=notprash.visitor-badge)
 
 
 - 🔭 I’m currently working on something new and cool. 
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning Web development 
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with computer theory
-- 💬 Ask me about Computers
-- 😄 Pronouns: He
 - ⚡ Fun fact: I am person who is called computer nerd in my school. 
 
 
