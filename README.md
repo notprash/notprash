@@ -11,7 +11,7 @@
 #### My Todo for this year
 - [X] Complete [Computer Networking course](https://www.coursera.org/learn/computer-networking/home/welcome)
 - [X] Learn React.js
-- [ ] Learn C
+- [ ] Learn HTML & CSS
 - [ ] Complete [IT Security course](https://www.coursera.org/learn/it-security)
 - [ ] Try to make some good music 💿
 
