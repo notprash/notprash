@@ -8,12 +8,12 @@
 - ⚡ Fun fact: I am person who is called computer nerd in my school. 
 
 
-#### My Todo for this year
+#### My Todo for this year - ALL DONE!
 - [X] Complete [Computer Networking course](https://www.coursera.org/learn/computer-networking/home/welcome)
 - [X] Learn React.js
 - [X] Learn HTML & CSS
-- [ ] Complete [IT Security course](https://www.coursera.org/learn/it-security)
-- [ ] Try to make some good music 💿
+- [X] Complete [IT Security course](https://www.coursera.org/learn/it-security)
+- [X] Try to make some good music 💿
 
 #### Github Stats
 <hr>
@@ -24,3 +24,5 @@
 <hr>
 
 [Computer Networking](https://coursera.org/share/bd1c81f79377d9bcf7d3da4d5922c1a0)
+<br />
+[IT Security](https://coursera.org/share/bbce10300fb1493b0c37e76aecaa1789)
