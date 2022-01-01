@@ -8,12 +8,8 @@
 - ⚡ Fun fact: I am person who is called computer nerd in my school. 
 
 
-#### My Todo for this year - ALL DONE!
-- [X] Complete [Computer Networking course](https://www.coursera.org/learn/computer-networking/home/welcome)
-- [X] Learn React.js
-- [X] Learn HTML & CSS
-- [X] Complete [IT Security course](https://www.coursera.org/learn/it-security)
-- [X] Try to make some good music 💿
+#### My Todo for this year - 
+- [ ] Contribute to Open Source
 
 #### Github Stats
 <hr>
