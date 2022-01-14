@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Web development 
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with computer theory
-- ⚡ Fun fact: I am person who is called computer nerd in my school. 
 
 
 #### My Todo for this year - 
